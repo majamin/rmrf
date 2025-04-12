@@ -7,7 +7,11 @@ Marian M.
 :leveloffset: +1
 
 include::test.adoc[]
+
 include::test1.adoc[]
+
 include::test2.adoc[]
+
 include::test3.adoc[]
+
 include::test4.adoc[]
