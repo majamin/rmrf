@@ -9,7 +9,7 @@ all: $(HTML_FILES)
 
 $(BUILD_DIR)/%.html: $(SRC_DIR)/%.adoc $(STYLE)
 	@mkdir -p $(BUILD_DIR)
-	asciidoctor -a stylesheet=../$(STYLE) -a linkcss -o $@ $<
+	asciidoctor -a linkcss -o $@ $<
 
 clean:
 	rm -rf $(BUILD_DIR)

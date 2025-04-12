@@ -1,7 +1,8 @@
 = RMRF
 Marian M.
 2025-04-12
-:stylesheet: ../styles/custom.css
+:stylesheet: custom.css
+:stylesdir: ../styles
 :linkcss:
 :icons: font
 :leveloffset: +1
