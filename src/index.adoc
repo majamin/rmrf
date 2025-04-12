@@ -1,6 +1,5 @@
 = RMRF
 Marian M.
-2025-04-12
 :stylesheet: custom.css
 :stylesdir: ./styles
 :linkcss:
