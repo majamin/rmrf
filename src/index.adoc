@@ -2,7 +2,7 @@
 Marian M.
 2025-04-12
 :stylesheet: custom.css
-:stylesdir: ../styles
+:stylesdir: ./styles
 :linkcss:
 :icons: font
 :leveloffset: +1
